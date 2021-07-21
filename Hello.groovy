@@ -1,2 +1,2 @@
-println "Hello World!"
-println "Good to see you"
+"Hello World!"
+"Good to see you"
